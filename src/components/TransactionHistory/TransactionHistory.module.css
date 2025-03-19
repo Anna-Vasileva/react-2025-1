@@ -1,0 +1,17 @@
+tbody tr:nth-child(even) {
+  background-color: rgb(193, 230, 218);
+  color: rgb(13, 89, 32);
+}
+thead {
+  background-color: rgb(252, 231, 246);
+  color: rgb(33, 3, 61);
+  text-transform: uppercase;
+}
+
+.transaction {
+  margin-top: 20px;
+  width: 100%;
+  table-layout: fixed;
+
+  text-align: center;
+}

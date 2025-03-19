@@ -1,0 +1,35 @@
+[
+  {
+    "id": "id-1",
+    "url": "https://gratisography.com/wp-content/uploads/2025/01/gratisography-dog-vacation-1170x780.jpg",
+    "title": "Отпуск для собак. Изображение",
+    "price": 500,
+    "author": {
+      "tag": "ractapopulous",
+      "url": "https://gratisography.com/photo/collection/amusing-animals/"
+    },
+    "quantity": 10
+  },
+  {
+    "id": "id-2",
+    "url": "https://gratisography.com/wp-content/uploads/2024/01/gratisography-cyber-kitty-1170x780.jpg",
+    "title": "Кот. Крутой кот",
+    "price": 400,
+    "author": {
+      "tag": "ractapopulous",
+      "url": "https://gratisography.com/photo/collection/amusing-animals/"
+    },
+    "quantity": 15
+  },
+  {
+    "id": "id-3",
+    "url": "https://gratisography.com/wp-content/uploads/2024/10/gratisography-birthday-dog-sunglasses-1036x780.jpg",
+    "title": "С днем рождения, собака! Изображение",
+    "price": 600,
+    "author": {
+      "tag": "ractapopulous",
+      "url": "https://gratisography.com/photos/animals/"
+    },
+    "quantity": 5
+  }
+]

@@ -1,0 +1,27 @@
+.list {
+  margin: 40px auto;
+  display: flex;
+  justify-content: center;
+  width: auto;
+  height: auto;
+  gap: 10px;
+}
+.listItem {
+  border: 2px solid black;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: #f5e4ee;
+  text-align: center;
+}
+
+.nameListItem {
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.offline {
+  color: red;
+}
+.online {
+  color: green;
+}

@@ -1,0 +1,18 @@
+.container {
+  line-height: 1.5;
+  padding: 10px 20px;
+  background-color: grey;
+  color: #fff;
+}
+.error {
+  composes: container;
+  background-color: red;
+}
+.warning {
+  composes: container;
+  background-color: yellow;
+}
+.success {
+  composes: container;
+  background-color: green;
+}
